@@ -485,7 +485,6 @@ li.menu-item .nav-label.sale-label::before{
 	padding: 0;
 }
 .wrap-vertical-nav li{
-	display: inline-block;
 	width: 100%;
 	float: left;
 	text-align: left;
